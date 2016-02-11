@@ -15,3 +15,6 @@
 
 
 ### Day 3: Display Information from an Object <br />
+⋅⋅2: Sort Array of Objects <br />
+⋅⋅3: Find the Second Largest Number in an Array <br />
+⋅⋅4: Find the Day <br />
