@@ -18,3 +18,7 @@
 ⋅⋅2: Sort Array of Objects <br />
 ⋅⋅3: Find the Second Largest Number in an Array <br />
 ⋅⋅4: Find the Day <br />
+
+### Day 4: Data Types <br />
+⋅⋅2: Arrows <br />
+⋅⋅3: Template Strings <br />
